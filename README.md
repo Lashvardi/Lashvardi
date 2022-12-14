@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lasha</h1>
-<h3 align="center">Young Developer From Georgia</h3>
+<h3 align="center">Developer From Georgia</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
 
 
