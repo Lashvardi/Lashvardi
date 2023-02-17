@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Angular Country App](https://angular-country-app.vercel.app/)
 
-- 🌱 I’m currently learning **C#, Three.js**
+- 🌱 I’m currently learning **C#, Three.js, Node.JS**
 
 - 💬 Ask me about **Fronte-End**
 
