@@ -1,8 +1,9 @@
 [![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)](https://rishavchanda.io)
 ```javascript
-function Hello() {
+function SayHello() {
   console.log("Hello");
 }
+SayHello();
 ```
 <h3 align="center">Developer From Georgia</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
@@ -19,7 +20,6 @@ function Hello() {
 - 📫 How to reach me **Lashakakshvili114@gmail.com**
 
 - ⚡ Fun fact **I Am not from India**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/lasha kakashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lasha kakashvili" height="30" width="40" /></a>
