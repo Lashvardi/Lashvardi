@@ -15,7 +15,7 @@ SayHello();
 
 - 🌱 I’m currently learning **C#, Three.js, Node.JS**
 
-- 💬 Ask me about **Fronte-End**
+- 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **Lashakakshvili114@gmail.com**
 
