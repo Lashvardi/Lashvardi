@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)](https://rishavchanda.io)
 ```javascript
 function SayHello() {
-  console.log("Hello");
+  console.log("Hello Welcome To My Profile");
 }
 SayHello();
 ```
