@@ -11,7 +11,7 @@ SayHello();
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashvardi&label=Profile%20views&color=0e75b6&style=flat" alt="lashvardi" /> </p>
 
-- 🔭 I’m currently working on [Georgian Toast (Sadghegrdzelo) API]
+- 🔭 I’m currently working on Georgian Toast (Sadghegrdzelo) API
 
 - 🌱 I’m currently learning **C#, Three.js, Node.JS**
 
