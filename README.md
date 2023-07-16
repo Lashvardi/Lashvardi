@@ -24,6 +24,7 @@ SayHello();
 <p align="left">
 <a href="https://fb.com/lasha kakashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lasha kakashvili" height="30" width="40" /></a>
 <a href="https://instagram.com/lasshhvardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasshhvardi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lashakakashvili/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
