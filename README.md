@@ -27,7 +27,6 @@ public class Profile
     }
 }
 
-// Usage
 var skills = new List<string> { "C#", "ASP.NET", "Entity Framework", "SQL", "Angular", "TypeScript" };
 var myProfile = new Profile("Lashvardi", skills);
 
