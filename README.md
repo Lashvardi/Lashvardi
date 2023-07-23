@@ -1,9 +1,38 @@
 [![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)](https://rishavchanda.io)
-```javascript
-function SayHello() {
-  console.log("Hello Welcome To My Profile");
+```csharp
+public class Profile
+{
+    public string Name { get; set; }
+    public List<string> Skills { get; set; }
+
+    public Profile(string name, List<string> skills)
+    {
+        Name = name;
+        Skills = skills;
+    }
+
+    public void SayHello()
+    {
+        Console.WriteLine($"Hello! Welcome to {Name}'s profile.");
+    }
+
+    public void PrintSkills()
+    {
+        Console.WriteLine($"{Name} has the following skills:");
+
+        foreach (var skill in Skills)
+        {
+            Console.WriteLine($"- {skill}");
+        }
+    }
 }
-SayHello();
+
+// Usage
+var skills = new List<string> { "C#", "ASP.NET", "Entity Framework", "SQL", "Angular", "TypeScript" };
+var myProfile = new Profile("Lashvardi", skills);
+
+myProfile.SayHello();
+myProfile.PrintSkills();
 ```
 <h3 align="center">Developer From Georgia</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
