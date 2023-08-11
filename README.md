@@ -39,14 +39,7 @@ myProfile.PrintSkills();
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashvardi&label=Profile%20views&color=0e75b6&style=flat" alt="lashvardi" /> </p>
 
-- 🔭 I’m currently working on Georgian Toast (Sadghegrdzelo) API
-
-- 🌱 I’m currently learning **C#, Three.js, Node.JS**
-
-- 💬 Ask me about **Front-End**
-
 - 📫 How to reach me **Lashakakshvili114@gmail.com**
-
 - ⚡ Fun fact **I Am not from India**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
