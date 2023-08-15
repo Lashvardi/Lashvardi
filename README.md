@@ -35,7 +35,6 @@ myProfile.PrintSkills();
 ```
 <h3 align="center">Developer From Georgia</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lashvardi/my-stack)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashvardi&label=Profile%20views&color=0e75b6&style=flat" alt="lashvardi" /> </p>
 
@@ -53,7 +52,6 @@ myProfile.PrintSkills();
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width: 100%;"></a>
 </p>
 
-<a data-theme="dark" data-layers="2,3,4,1" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/b1748a64ef15753c9d44634f33776c"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lashvardi&show_icons=true&locale=en&layout=compact" alt="lashvardi" /></p>
 <br>
 <br>
