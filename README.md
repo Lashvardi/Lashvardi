@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://uploads.dailydot.com/2018/08/epic_handshake_meme-e1534136962951.png?auto=compress&fm=png)](https://rishavchanda.io)
 ```csharp
 public class Profile
 {
