@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads.dailydot.com/2018/08/epic_handshake_meme-e1534136962951.png?auto=compress&fm=png)](https://rishavchanda.io)
+[![MasterHead](https://i.ytimg.com/vi/zWhwUGzw3G4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDT9KeDB-ci1hu-_aWkqVc9vgc5g)](https://rishavchanda.io)
 ```csharp
 public class Profile
 {
